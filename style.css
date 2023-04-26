@@ -1,0 +1,21 @@
+.s1{
+    display:grid;
+grid-template-columns:4fr 1fr 1fr 1fr 1fr;
+}
+.lion{
+   padding:10px 0px 10px 20vw ;
+}
+.s2{
+    padding:0px 0px 0px 20vw;
+    background-color: #F1F3F4;
+
+}
+button{
+    padding:10px 10px 10px 10px;
+    border-radius: 4px;
+}
+.ad12{
+    display:grid;
+grid-template-columns:1fr 1fr;
+padding:40px 0px 20px 0px;
+}
