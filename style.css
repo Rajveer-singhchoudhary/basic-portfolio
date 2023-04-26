@@ -1,6 +1,6 @@
 .s1{
     display:grid;
-grid-template-columns:4fr 1fr 1fr 1fr 1fr;
+grid-template-columns:4fr 0.5fr 0.5fr 0.5fr 0.5fr;
 }
 .lion{
    padding:10px 0px 10px 20vw ;
@@ -8,6 +8,7 @@ grid-template-columns:4fr 1fr 1fr 1fr 1fr;
 .s2{
     padding:0px 0px 0px 20vw;
     background-color: #F1F3F4;
+    color: #2c3233;
 
 }
 button{
