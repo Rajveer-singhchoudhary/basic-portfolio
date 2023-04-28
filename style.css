@@ -1,23 +1,49 @@
 .s1{
     display:grid;
-grid-template-columns:4fr 0.5fr 0.5fr 0.5fr 0.5fr;
+grid-template-columns:4fr 1fr 1fr 1fr 1fr;
+font-size: 30px;
 }
 .lion{
-   padding:10px 0px 10px 20vw ;
+   padding:10px 0px 10px 30vw ;
 }
 .s2{
-    padding:0px 0px 0px 20vw;
+    padding:0px 0px 0px 30vw;
     background-color: #F1F3F4;
     color: #2c3233;
 
 }
 button{
-    padding:10px 30px 10px 30px;
-    border-radius: 4px;
+   
+   
+    border: 2px solid #000;
+    border-radius: 5px;
+    box-shadow: 4px 4px 0 0 #000;
+    color: #000;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 0 35px;
+    line-height: 45px;
+    text-align: center;
+    text-decoration: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    margin-top: 10px;
 }
 .ad12{
     display:grid;
 grid-template-columns:1fr 1fr;
 padding:40px 0px 20px 0px;
 font-size: 20px;
+}
+.ra4{
+    text-align: center;
+}
+.sst1{
+    background-color: #F1F3F4;
+    padding: 30px 30px 20px 20px ;   
 }
