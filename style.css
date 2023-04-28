@@ -12,11 +12,12 @@ grid-template-columns:4fr 0.5fr 0.5fr 0.5fr 0.5fr;
 
 }
 button{
-    padding:10px 10px 10px 10px;
+    padding:10px 30px 10px 30px;
     border-radius: 4px;
 }
 .ad12{
     display:grid;
 grid-template-columns:1fr 1fr;
 padding:40px 0px 20px 0px;
+font-size: 20px;
 }
