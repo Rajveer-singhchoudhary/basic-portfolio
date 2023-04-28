@@ -1,13 +1,22 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.s1, .s2, .sst1{
+    padding: 10px 25vw;
+    
+}
+
 .s1{
     display:grid;
 grid-template-columns:4fr 1fr 1fr 1fr 1fr;
-font-size: 30px;
+font-size: 20px;
+align-items: center;
 }
 .lion{
-   padding:10px 0px 10px 30vw ;
 }
 .s2{
-    padding:0px 0px 0px 30vw;
     background-color: #F1F3F4;
     color: #2c3233;
 
