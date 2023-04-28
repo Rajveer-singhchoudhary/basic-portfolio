@@ -1,6 +1,7 @@
 *{
     padding: 0px;
     margin: 0px;
+
 }
 
 .s1, .s2, .sst1{
@@ -21,8 +22,9 @@ padding-bottom: 20px;
 .s2{
     background-color: #F1F3F4;
     color: #2c3233;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    line-height: 1.5;
 
 }
 button{
@@ -46,6 +48,7 @@ button{
     -webkit-user-select: none;
     touch-action: manipulation;
     margin-top: 10px;
+    background-color: white;
 }
 .ad12{
     display:grid;
